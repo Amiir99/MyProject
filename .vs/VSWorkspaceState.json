@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\myproject_MVC",
+    "\\myproject_MVC\\Controllers",
+    "\\myproject_MVC\\Views",
+    "\\myproject_MVC\\Views\\Home"
   ],
+  "SelectedNode": "\\myproject.sln",
   "PreviewInSolutionExplorer": false
 }

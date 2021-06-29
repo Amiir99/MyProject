@@ -22,7 +22,6 @@ D:\MyProject\myproject_MVC\obj\Debug\netcoreapp3.1\myproject_MVC.TagHelpers.inpu
 D:\MyProject\myproject_MVC\obj\Debug\netcoreapp3.1\myproject_MVC.TagHelpers.output.cache
 D:\MyProject\myproject_MVC\obj\Debug\netcoreapp3.1\myproject_MVC.RazorCoreGenerate.cache
 D:\MyProject\myproject_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-D:\MyProject\myproject_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 D:\MyProject\myproject_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 D:\MyProject\myproject_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\MyProject\myproject_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -35,3 +34,4 @@ D:\MyProject\myproject_MVC\obj\Debug\netcoreapp3.1\myproject_MVC.dll
 D:\MyProject\myproject_MVC\obj\Debug\netcoreapp3.1\myproject_MVC.pdb
 D:\MyProject\myproject_MVC\obj\Debug\netcoreapp3.1\myproject_MVC.genruntimeconfig.cache
 D:\MyProject\myproject_MVC\obj\Debug\netcoreapp3.1\myproject_MVC.csproj.CopyComplete
+D:\MyProject\myproject_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
